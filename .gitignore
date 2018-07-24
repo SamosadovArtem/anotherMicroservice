@@ -31,3 +31,4 @@ hs_err_pid*
 gateway-serivce/.mvn/
 gateway-serivce/target/
 user-service/target/
+interaction-service/target/

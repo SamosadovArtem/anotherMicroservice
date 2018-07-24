@@ -66,6 +66,14 @@
 			<scope>provided</scope>
 		</dependency>
 
+    <dependency>
+      <groupId>com.micros</groupId>
+      <artifactId>interaction-service</artifactId>
+      <version>0.0.1-SNAPSHOT</version>
+      <scope>system</scope>
+      <systemPath>${project.basedir}/../interaction-service/target/interaction-service-0.0.1-SNAPSHOT.jar</systemPath>
+    </dependency>
+
 	</dependencies>
 
 	<build>

@@ -1,9 +1,9 @@
 package com.micros.userservice.serivces;
 
+import java.util.List;
+
 import com.micros.userservice.entity.User;
 
-import reactor.core.publisher.Flux;
-
-public interface UserSerivce {
-  Flux<User> findAll();
+public interface UserService {
+  List<User> findAll();
 }
