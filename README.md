@@ -1,0 +1,2 @@
+# anotherMicroservice
+Just simple project
